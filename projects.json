@@ -340,6 +340,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "url": "https://sqlly.app/",
+      "image": "https://sqlly.app/sqlly2.svg",
       "description": "A cross-platform SQL client with IntelliSense and schema intelligence for PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, Redis and more."
     },
     {
